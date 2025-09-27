@@ -25,8 +25,7 @@
 | [𝕏](https://twitter.com)                               | [Nitter](https://github.com/zedeus/nitter)                                                                                                                       |
 | [Reddit](https://reddit.com)                           | [redlib](https://github.com/redlib-org/redlib)                                                                                                                   |
 | [Search](https://www.google.com)                       | [SearXNG](https://github.com/searxng/searxng)
-             |
-| [Chatgpt](https://chatgpt.com)                           | [Gemini](https://github.com/gemini.google.com/redlib)                                                                                                                       |
+| [Chatgpt](https://chatgpt.com)                         | [Gemini](https://github.com/gemini.google.com/redlib)                                                                                                                       |
 | [Medium](https://medium.com)                           | [Scribe](https://sr.ht/~edwardloveall/Scribe/), [LibMedium](https://github.com/realaravinth/libmedium), [medium.rip](https://github.com/SphericalKat/medium.rip) |
 | [TikTok](https://tiktok.com)                           | [ProxiTok](https://github.com/pablouser1/ProxiTok)                                                                                                               |
 | [Quora](https://quora.com)                             | [Quetre](https://github.com/zyachel/quetre)                                                                                                                      |
